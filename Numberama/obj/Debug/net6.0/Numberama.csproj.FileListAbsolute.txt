@@ -1,0 +1,15 @@
+C:\Users\mauro\source\repos\Numberama\Numberama\bin\Debug\net6.0\Numberama.exe
+C:\Users\mauro\source\repos\Numberama\Numberama\bin\Debug\net6.0\Numberama.deps.json
+C:\Users\mauro\source\repos\Numberama\Numberama\bin\Debug\net6.0\Numberama.runtimeconfig.json
+C:\Users\mauro\source\repos\Numberama\Numberama\bin\Debug\net6.0\Numberama.dll
+C:\Users\mauro\source\repos\Numberama\Numberama\bin\Debug\net6.0\Numberama.pdb
+C:\Users\mauro\source\repos\Numberama\Numberama\obj\Debug\net6.0\Numberama.csproj.AssemblyReference.cache
+C:\Users\mauro\source\repos\Numberama\Numberama\obj\Debug\net6.0\Numberama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\source\repos\Numberama\Numberama\obj\Debug\net6.0\Numberama.AssemblyInfoInputs.cache
+C:\Users\mauro\source\repos\Numberama\Numberama\obj\Debug\net6.0\Numberama.AssemblyInfo.cs
+C:\Users\mauro\source\repos\Numberama\Numberama\obj\Debug\net6.0\Numberama.csproj.CoreCompileInputs.cache
+C:\Users\mauro\source\repos\Numberama\Numberama\obj\Debug\net6.0\Numberama.dll
+C:\Users\mauro\source\repos\Numberama\Numberama\obj\Debug\net6.0\refint\Numberama.dll
+C:\Users\mauro\source\repos\Numberama\Numberama\obj\Debug\net6.0\Numberama.pdb
+C:\Users\mauro\source\repos\Numberama\Numberama\obj\Debug\net6.0\Numberama.genruntimeconfig.cache
+C:\Users\mauro\source\repos\Numberama\Numberama\obj\Debug\net6.0\ref\Numberama.dll
