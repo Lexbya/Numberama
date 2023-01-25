@@ -1,5 +1,3 @@
-﻿//Mauro Martínez Montes
-//José Tomás Gómez Becerra
 using System.Xml.Linq;
 
 namespace Numberama;
